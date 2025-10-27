@@ -6,7 +6,7 @@ Compile o programa no terminal com o comando:
    ````gcc main.c -o calculadora -lm````
 (Usa -lm é necessário para linkar a biblioteca matemática math.h.)
 
-# Funcionalidades 💻
+# Funcionalidades 
 Operações básicas: *soma, subtração, multiplicação e divisão*
 
 Operações científicas: *potenciação, radiciação e funções trigonométricas (seno, cosseno e tangente)*
@@ -19,7 +19,7 @@ Histórico de operações: *registra todas as operações realizadas durante a e
 
 Validação de entradas: *impede divisões por zero e outros erros de cálculo*
 
-# Estrutura do Código 🆒
+# Estrutura do Código 
 funcoes.c → contém todas as funções matemáticas separadas da main, garantindo melhor organização.
 
 main.c → gerencia o menu, o fluxo principal e o histórico das operações.
