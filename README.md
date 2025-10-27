@@ -27,4 +27,4 @@ main.c → gerencia o menu, o fluxo principal e o histórico das operações.
 Uso de structs para armazenar o histórico (Operacao), com campos para tipo da operação, valores e resultado.
 
 # Autores 👥
-YAN GUTTO, LUIZ GUSTAVO, DANILO, RICARDO MISAEL GOMES e ELÍDIO DUTRA JÚNIOR.
+YAN GUTTO, LUIS GUSTAVO, DANILO e ELÍDIO DUTRA JÚNIOR.
